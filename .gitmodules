@@ -1,0 +1,3 @@
+[submodule "pre-riskapp__expo"]
+	path = pre-riskapp__expo
+	url = https://github.com/SKL-InfoTech/pre-risk-app__expo.git

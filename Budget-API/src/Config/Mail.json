@@ -1,0 +1,8 @@
+{
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "user": "mailsend71@gmail.com",
+    "pass": "682089a14e7ee1b2ecf252925da5b1ba",
+    "service": "gmail",
+    "mail": ""
+}

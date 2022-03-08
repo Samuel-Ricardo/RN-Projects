@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Dados de Compra</title>
+
+        <style>
+            body {
+              font-size: 16px;
+              color: #0085ff;
+              padding: 20;
+
+              font-family: Arial, Helvetica, sans-serif;
+
+              /* max-width: 595pt; */
+            }
+
+            h1 {
+              font-size: 24pt;
+              font-weight: bolder;
+            }
+
+            h2 {
+              font-size: 20pt;
+              font-weight: bolder;
+            }
+
+            h3 {
+              font-size: 18pt;
+              font-weight: bolder;
+            }
+
+            .text-center{
+              text-align: center;
+            }
+
+            .item, .item-data, .item-list, .addres-data{
+
+              display: flex;
+              flex:1;
+            }
+
+            .item-list, .addres-data {
+
+              box-shadow: 7px 7px 3px rgba(0, 0, 0, 0.8);
+            }
+
+            .item-list, .addres-data{
+
+              border-style: solid;
+              border-width: 5pt;
+              border-radius: 20pt;
+            }
+
+            .item-list, .addres-data{
+              flex-direction: column;
+
+              padding: 20px;
+
+              margin-bottom: 20pt;
+
+            }
+
+            .item{
+
+              flex-direction: row;
+
+              border-style: solid;
+              border-width: 3px;
+              border-color: #0085ff;
+              border-radius: 20px;
+
+              padding: 20px;
+
+              margin-bottom: 20pt;
+            }
+
+            .image {
+              padding: 2;
+
+              padding-right: 20px;
+
+              border-style: solid;
+              border-width: 0;
+              border-right-width: 5px;
+              border-color: #0085ff;
+            }
+
+            img {
+              border-radius: 10%;
+              max-width: 150px;
+            }
+
+            .item-data {
+
+              margin-left: 20pt;
+
+              flex-direction: column;
+            }
+
+            .line {
+
+              display: flex;
+              flex-direction: row;
+
+              justify-content: space-between;
+
+              margin-bottom: auto;
+            }
+
+            .name, .price, .stock, .size {
+
+              font-weight: bolder;
+              font-size: 16px;
+            }
+
+            .cep-data, .frete-data {
+              border-style: solid;
+              border-width: 3pt;
+              border-radius: 20pt;
+
+              padding: 20;
+            }
+
+            .info, .info-user{
+
+              margin: 20pt;
+              margin-bottom: 0pt;
+
+              border-radius: 20pt;
+              border-width: 0;
+              border-style: none;
+
+
+
+              display: flex;
+              flex: 1;
+              flex-direction: column;
+            }
+
+            .info, .info-user h3 {
+
+              margin-top: 0;
+            }
+
+            .info,.info-user p{
+
+              margin-top: 0;
+              margin-left: 10pt;
+              font-weight: bold;
+            }
+
+            .info-user{
+
+              box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.9);
+
+              border-radius: 20pt;
+
+              padding-left: 20pt;
+              padding-top: 10pt;
+            }
+
+            .info-container{
+
+              margin: 20pt;
+              margin-bottom: 20pt;
+            }
+
+        </style>
+      </head>
+
+      <body>
+
+        <h1 class="text-center">Dados da Compra</h1>
+
+        <h2>Carrinho: </h2>
+
+        <div class="item-list">
+
+          <div class="item">
+
+            <div class="image">
+              <img src="https://avatars.githubusercontent.com/u/63983021?v=4" alt="" srcset="">
+            </div>
+
+
+            <div class="item-data">
+
+              <div class='line'>
+                <p class="name">
+                  Camisa Polo Masculina
+                </p>
+              </div>
+
+              <div class='line'>
+                <p class="stock">
+                  Estoque: 35
+                </p>
+
+                <p class="size">
+                 Tamanho: M
+                </p>
+              </div>
+
+              <div class='line'>
+                <p class="price">
+                  R$ 12.99
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+
+            <div class="image">
+              <img src="https://avatars.githubusercontent.com/u/63983021?v=4" alt="" srcset="">
+            </div>
+
+
+            <div class="item-data">
+
+              <div class='line'>
+                <p class="name">
+                  Camisa Polo Masculina
+                </p>
+              </div>
+
+              <div class='line'>
+                <p class="stock">
+                  Estoque: 35
+                </p>
+
+                <p class="size">
+                 Tamanho: M
+                </p>
+              </div>
+
+              <div class='line'>
+                <p class="price">
+                  R$ 12.99
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <h2>Endereço: </h2>
+
+        <div class="addres-data">
+
+          <h2>Dados do CEP: </h2>
+
+          <div class="cep-data">
+
+            <div class="info">
+              <h3>Logadouro: </h3>
+              <p>Rua Nazaré</p>
+            </div>
+
+            <div class="info">
+              <h3>Localidade: </h3>
+              <p>Rua Nazaré</p>
+            </div>
+
+            <div class="info">
+              <h3>Bairro: </h3>
+              <p>Rua Nazaré</p>
+            </div>
+
+            <div class="info">
+              <h3>UF: </h3>
+              <p>PE</p>
+            </div>
+
+            <div class="info">
+              <h3>CEP: </h3>
+              <p>PE</p>
+            </div>
+
+            <div class="info">
+              <h3>DDD: </h3>
+              <p>PE</p>
+            </div>
+
+          </div>
+
+          <h2>Dados do Frete: </h2>
+
+          <div class="frete-data">
+
+            <div class="info">
+              <h3>Frete: </h3>
+              <p>Rua Nazaré</p>
+            </div>
+
+            <div class="info">
+              <h3>Prazo Estimado: </h3>
+              <p>Rua Nazaré</p>
+            </div>
+
+            <div class="info">
+              <h3>Agência de Entrega: </h3>
+              <p>Rua Nazaré</p>
+            </div>
+
+            <div class="info">
+              <h3>Entrega em Dias de Sábado: </h3>
+              <p>PE</p>
+            </div>
+
+            <div class="info">
+              <h3>Entrega a Domicílio: </h3>
+              <p>PE</p>
+            </div>
+
+          </div>
+
+        </div>
+
+        <h2>Dados do Comprador: </h2>
+
+        <div class="addres-data">
+
+          <div class="info-user">
+            <h3>Nome: </h3>
+            <p>Pedro</p>
+          </div>
+
+          <div class="info-user">
+            <h3>Email: </h3>
+            <p>Pedro</p>
+          </div>
+
+          <div class="info-user">
+            <h3>Celular: </h3>
+            <p>Pedro</p>
+          </div>
+
+        </div>
+        </div>
+
+        <h2>Dados de Pagamento: </h2>
+
+          <div class='info'>
+            <p> Realize a Transderencia do valor total no seu aplicativo de pagamentos ou banco favorito. </p>
+          </div>
+
+          <div class="cep-data">
+
+            <div class="cep-data info-container">
+              <div class='info'>
+                <h3> Valor a ser Pago </h3>
+              </div>
+
+              <div class="info">
+                <h3>Produtos: </h3>
+                <p>é menos de 8000</p>
+              </div>
+
+              <div class="info">
+                <h3>Frete: </h3>
+                <p>é mais de 8000</p>
+              </div>
+
+              <div class="info">
+                <h3>Valor Total: </h3>
+                <p>R$ 89.22</p>
+              </div>
+            </div>
+
+            <div class="cep-data info-container">
+              <div class='info'>
+                <h3> Pix </h3>
+              </div>
+
+              <div class="info">
+                <h3>CNPJ: </h3>
+                <p>4002-8922</p>
+              </div>
+            </div>
+
+            <div class="cep-data info-container">
+              <div class='info'>
+                <h3> Dados Bancários </h3>
+              </div>
+
+              <div class="info">
+                <h3>Agéncia: </h3>
+                <p>4002 - Bom dia e Companhia</p>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </body>
+
+    </html>

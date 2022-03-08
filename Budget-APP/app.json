@@ -1,0 +1,7 @@
+{
+  "name": "surveyapp",
+  "displayName": "surveyapp",
+  "ios": {
+    "bundleIdentifier": "teste"
+  }
+}

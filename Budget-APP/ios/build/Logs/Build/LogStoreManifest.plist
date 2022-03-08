@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>51A2AB73-5B1A-4CC4-A50A-256DE7B49F41</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>51A2AB73-5B1A-4CC4-A50A-256DE7B49F41.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>surveyapp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>surveyapp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace surveyapp with scheme surveyapp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565014310.018659</real>
+			<key>timeStoppedRecording</key>
+			<real>565014319.03876305</real>
+			<key>title</key>
+			<string>Building workspace surveyapp with scheme surveyapp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>51A2AB73-5B1A-4CC4-A50A-256DE7B49F41</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

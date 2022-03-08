@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "740474605045",
+    "firebase_url": "https://simple-budget-app-3f9c5.firebaseio.com",
+    "project_id": "simple-budget-app-3f9c5",
+    "storage_bucket": "simple-budget-app-3f9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740474605045:android:fe8f5edb10f8fa44",
+        "android_client_info": {
+          "package_name": "com.asgard.budgetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740474605045-ucb6rb4jmhn2im9it9tq74f66ube283m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asgard.budgetapp",
+            "certificate_hash": "899f6e8e8e42e251799e778270c420dec4ad87eb"
+          }
+        },
+        {
+          "client_id": "740474605045-0do7k00rv08c1mojhuvrtvd4ju38l7c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXObLUCpcAVMkWZdRtMGMg7TKGfmqYKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740474605045-0do7k00rv08c1mojhuvrtvd4ju38l7c0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740474605045-0cb2alq7bh9e9q07pg5ri0bvvqg7bgr3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asgard.budgetapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

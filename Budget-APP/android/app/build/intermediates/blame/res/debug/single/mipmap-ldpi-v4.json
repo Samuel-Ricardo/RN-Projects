@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v4/ic_notification.png",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/src/main/res/mipmap-ldpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v4/ic_launcher.png",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    }
+]

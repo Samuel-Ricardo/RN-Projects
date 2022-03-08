@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c2802f415d2fc0d1f6b644eda3f32c9/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

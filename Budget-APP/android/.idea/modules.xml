@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/surveyapp.iml" filepath="$PROJECT_DIR$/surveyapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/surveyapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/surveyapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1904476368/surveyapp.react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/-1904476368/surveyapp.react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2109827165/surveyapp.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/-2109827165/surveyapp.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/32142146/surveyapp.react-native-navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/32142146/surveyapp.react-native-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/262320289/surveyapp.react-native-snackbar.iml" filepath="$PROJECT_DIR$/.idea/modules/262320289/surveyapp.react-native-snackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1054697300/surveyapp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1054697300/surveyapp.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

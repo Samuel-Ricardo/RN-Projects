@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/menu/search_item.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/debug/menu/stub.xml"
+    }
+]

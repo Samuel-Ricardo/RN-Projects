@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">2ffgmwnBSsjJ0T2BY_vzK8wFO-XXea2b92a1-edd5-4786-bd77-479d6b10544a</string>
+    <string name="app_name">surveyapp</string>
+</resources>

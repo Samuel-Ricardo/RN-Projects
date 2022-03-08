@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c2802f415d2fc0d1f6b644eda3f32c9/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/pop.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/release/anim/pop.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/slide_in_right.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/release/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/lightbox_enter.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/release/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/abf517262f943eb04af300b451487b51/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/no_animation.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/release/anim/no_animation.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/abf517262f943eb04af300b451487b51/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/abf517262f943eb04af300b451487b51/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/abf517262f943eb04af300b451487b51/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/release/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/release/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1db64822805fdf62cbccd67b0c2e01ef/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c2802f415d2fc0d1f6b644eda3f32c9/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/abf517262f943eb04af300b451487b51/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/slide_out_right.xml",
+        "source": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/node_modules/react-native-navigation/android/app/build/intermediates/packaged_res/release/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/abf517262f943eb04af300b451487b51/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c2802f415d2fc0d1f6b644eda3f32c9/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/sakakititan/NodeProjects/Simple-Budget-App-master/android/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/sakakititan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c2802f415d2fc0d1f6b644eda3f32c9/res/anim/design_bottom_sheet_slide_out.xml"
+    }
+]
